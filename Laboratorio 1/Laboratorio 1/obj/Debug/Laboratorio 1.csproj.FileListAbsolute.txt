@@ -1,0 +1,8 @@
+C:\Users\ronal\OneDrive\Escritorio\programacion III\Laboratorio 1\Laboratorio 1\bin\Debug\Laboratorio 1.exe.config
+C:\Users\ronal\OneDrive\Escritorio\programacion III\Laboratorio 1\Laboratorio 1\bin\Debug\Laboratorio 1.exe
+C:\Users\ronal\OneDrive\Escritorio\programacion III\Laboratorio 1\Laboratorio 1\bin\Debug\Laboratorio 1.pdb
+C:\Users\ronal\OneDrive\Escritorio\programacion III\Laboratorio 1\Laboratorio 1\obj\Debug\Laboratorio 1.csproj.AssemblyReference.cache
+C:\Users\ronal\OneDrive\Escritorio\programacion III\Laboratorio 1\Laboratorio 1\obj\Debug\Laboratorio 1.csproj.SuggestedBindingRedirects.cache
+C:\Users\ronal\OneDrive\Escritorio\programacion III\Laboratorio 1\Laboratorio 1\obj\Debug\Laboratorio 1.csproj.CoreCompileInputs.cache
+C:\Users\ronal\OneDrive\Escritorio\programacion III\Laboratorio 1\Laboratorio 1\obj\Debug\Laboratorio 1.exe
+C:\Users\ronal\OneDrive\Escritorio\programacion III\Laboratorio 1\Laboratorio 1\obj\Debug\Laboratorio 1.pdb
